@@ -1,0 +1,8 @@
+Date d1 = new Date(9,6,2012);
+Date d2 = new Date(9,6,2012);
+d1.getYear();
+d2.getYear();
+
+
+d1 = d2;
+// d1 == d2
